@@ -1,9 +1,4 @@
----
-title: "Epilepsy"
-author: "Ganesh Praneeth, Arcot"
-date: "December 3, 2018"
-output: pdf_document
----
+
 
 ```{r}
 data = read.csv("AveragedData.csv", header = TRUE)
